@@ -1,4 +1,4 @@
-# IOTKit
+# MAUI - Blazor + Radzen - Boilerplate
 
 ## Project Description
 
