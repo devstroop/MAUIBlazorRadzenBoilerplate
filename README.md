@@ -1,4 +1,4 @@
-# MAUI - Blazor + Radzen - Boilerplate
+# .NET MAUI + Blazor + Radzen - Boilerplate
 
 ## Project Description
 
